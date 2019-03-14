@@ -14,7 +14,8 @@ svgr \
 --replace-attr-values "#272066={props.fill || styles.inactiveGreyColor}"
 ```
 => This is magic.
-* STEP 2
+* STEP 2: Copy `working.js` file to `src/components/AppIcons` folder and run `node working`
+* STEP 3: DONE
 
 #### Some Cool Tutorials
 * Import all Components in Folder. - Not found anything here.
